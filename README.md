@@ -2,6 +2,4 @@
 
 ## Application Development Assignment A4
 
-Lorem ipsum dolor sit amet
-
 Submitted by 108475
